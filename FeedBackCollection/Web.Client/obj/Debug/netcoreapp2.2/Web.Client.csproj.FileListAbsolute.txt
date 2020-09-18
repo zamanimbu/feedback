@@ -1,0 +1,14 @@
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\Web.Client\bin\Debug\netcoreapp2.2\Web.Client.deps.json
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\Web.Client\bin\Debug\netcoreapp2.2\Web.Client.runtimeconfig.json
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\Web.Client\bin\Debug\netcoreapp2.2\Web.Client.runtimeconfig.dev.json
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\Web.Client\bin\Debug\netcoreapp2.2\Web.Client.dll
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\Web.Client\bin\Debug\netcoreapp2.2\Web.Client.pdb
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\Web.Client\obj\Debug\netcoreapp2.2\Web.Client.csprojAssemblyReference.cache
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\Web.Client\obj\Debug\netcoreapp2.2\Web.Client.csproj.CoreCompileInputs.cache
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\Web.Client\obj\Debug\netcoreapp2.2\Web.Client.RazorAssemblyInfo.cache
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\Web.Client\obj\Debug\netcoreapp2.2\Web.Client.RazorAssemblyInfo.cs
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\Web.Client\obj\Debug\netcoreapp2.2\Web.Client.AssemblyInfoInputs.cache
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\Web.Client\obj\Debug\netcoreapp2.2\Web.Client.AssemblyInfo.cs
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\Web.Client\obj\Debug\netcoreapp2.2\Web.Client.RazorTargetAssemblyInfo.cache
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\Web.Client\obj\Debug\netcoreapp2.2\Web.Client.dll
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\Web.Client\obj\Debug\netcoreapp2.2\Web.Client.pdb

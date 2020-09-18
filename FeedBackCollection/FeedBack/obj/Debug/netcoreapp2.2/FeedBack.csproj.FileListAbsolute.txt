@@ -1,0 +1,14 @@
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\FeedBack\bin\Debug\netcoreapp2.2\FeedBack.deps.json
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\FeedBack\bin\Debug\netcoreapp2.2\FeedBack.runtimeconfig.json
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\FeedBack\bin\Debug\netcoreapp2.2\FeedBack.runtimeconfig.dev.json
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\FeedBack\bin\Debug\netcoreapp2.2\FeedBack.dll
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\FeedBack\bin\Debug\netcoreapp2.2\FeedBack.pdb
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\FeedBack\obj\Debug\netcoreapp2.2\FeedBack.csprojAssemblyReference.cache
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\FeedBack\obj\Debug\netcoreapp2.2\FeedBack.csproj.CoreCompileInputs.cache
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\FeedBack\obj\Debug\netcoreapp2.2\FeedBack.RazorAssemblyInfo.cache
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\FeedBack\obj\Debug\netcoreapp2.2\FeedBack.RazorAssemblyInfo.cs
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\FeedBack\obj\Debug\netcoreapp2.2\FeedBack.AssemblyInfoInputs.cache
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\FeedBack\obj\Debug\netcoreapp2.2\FeedBack.AssemblyInfo.cs
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\FeedBack\obj\Debug\netcoreapp2.2\FeedBack.RazorTargetAssemblyInfo.cache
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\FeedBack\obj\Debug\netcoreapp2.2\FeedBack.dll
+C:\Users\Shahria\Desktop\Brain-Station-23\FeedBackCollection\FeedBack\obj\Debug\netcoreapp2.2\FeedBack.pdb
